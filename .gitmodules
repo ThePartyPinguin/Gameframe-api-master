@@ -4,3 +4,6 @@
 [submodule "Gameframe-Authservice"]
 	path = Gameframe-Authservice
 	url = https://github.com/ThePartyPinguin/Gameframe-Authservice.git
+[submodule "Gameframe-Userservice"]
+	path = Gameframe-Userservice
+	url = https://github.com/ThePartyPinguin/Gameframe-Userservice.git
