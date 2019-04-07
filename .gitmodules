@@ -1,3 +1,6 @@
 [submodule "Gameframe-Gateway"]
 	path = Gameframe-Gateway
 	url = https://github.com/ThePartyPinguin/Gameframe-Gateway.git
+[submodule "Gameframe-Authservice"]
+	path = Gameframe-Authservice
+	url = https://github.com/ThePartyPinguin/Gameframe-Authservice.git
