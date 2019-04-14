@@ -14,7 +14,7 @@
     <groupId>com.tpp.gameframe</groupId>
     <artifactId>gameframe-master-api</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <java.version>1.8</java.version>
@@ -24,6 +24,7 @@
         <module>gameframe-userservice</module>
         <module>gameframe-gateway</module>
         <module>gameframe-authservice</module>
+        <module>gameframe-eurekaservice</module>
     </modules>
 
     <build>
