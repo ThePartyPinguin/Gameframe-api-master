@@ -70,3 +70,4 @@ fabric.properties
 target/**
 *.war
 .idea/
+gameframe-master-api.iml
