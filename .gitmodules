@@ -10,3 +10,6 @@
 [submodule "Gameframe-Eurekaservice"]
 	path = Gameframe-Eurekaservice
 	url = https://github.com/ThePartyPinguin/Gameframe-Eurekaservice.git
+[submodule "Gameframe-Profileservice"]
+	path = Gameframe-Profileservice
+	url = https://github.com/ThePartyPinguin/Gameframe-Profileservice.git
