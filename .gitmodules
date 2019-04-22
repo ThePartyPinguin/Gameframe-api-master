@@ -13,3 +13,6 @@
 [submodule "Gameframe-Profileservice"]
 	path = Gameframe-Profileservice
 	url = https://github.com/ThePartyPinguin/Gameframe-Profileservice.git
+[submodule "Gameframe-Fileservice"]
+	path = Gameframe-Fileservice
+	url = https://github.com/ThePartyPinguin/Gameframe-Fileservice.git
