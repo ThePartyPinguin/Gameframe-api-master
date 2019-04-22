@@ -26,39 +26,40 @@
         <module>gameframe-authservice</module>
         <module>gameframe-eurekaservice</module>
         <module>Gameframe-Profileservice</module>
+        <module>Gameframe-Fileservice</module>
     </modules>
 
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-openfeign -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
-            <version>2.1.1.RELEASE</version>
-        </dependency>
+<!--    <dependencies>-->
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-openfeign &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.cloud</groupId>-->
+<!--            <artifactId>spring-cloud-starter-openfeign</artifactId>-->
+<!--            <version>2.1.1.RELEASE</version>-->
+<!--        </dependency>-->
 
-    </dependencies>
+<!--    </dependencies>-->
 
-    <build>
-        <plugins>
-            <!-- https://mvnrepository.com/artifact/org.wildfly.plugins/wildfly-maven-plugin -->
-            <!--<plugin>-->
-            <!--<groupId>org.wildfly.plugins</groupId>-->
-            <!--<artifactId>wildfly-maven-plugin</artifactId>-->
-            <!--<version>2.0.1.Final</version>-->
-            <!--</plugin>-->
-            <plugin>
-                <groupId>org.wildfly.plugins</groupId>
-                <artifactId>wildfly-maven-plugin</artifactId>
-                <version>2.0.1.Final</version>
-                <configuration>
-                    <hostname>overloaded-game.com</hostname>
-                    <port>9990</port>
-                    <!--<hostname>wildfly.overloaded-game.com</hostname>-->
-                    <username>DeployUser</username>
-                    <password>!RemoteDeploy1</password>
-                </configuration>
-            </plugin>
+<!--    <build>-->
+<!--        <plugins>-->
+<!--            &lt;!&ndash; https://mvnrepository.com/artifact/org.wildfly.plugins/wildfly-maven-plugin &ndash;&gt;-->
+<!--            &lt;!&ndash;<plugin>&ndash;&gt;-->
+<!--            &lt;!&ndash;<groupId>org.wildfly.plugins</groupId>&ndash;&gt;-->
+<!--            &lt;!&ndash;<artifactId>wildfly-maven-plugin</artifactId>&ndash;&gt;-->
+<!--            &lt;!&ndash;<version>2.0.1.Final</version>&ndash;&gt;-->
+<!--            &lt;!&ndash;</plugin>&ndash;&gt;-->
+<!--            <plugin>-->
+<!--                <groupId>org.wildfly.plugins</groupId>-->
+<!--                <artifactId>wildfly-maven-plugin</artifactId>-->
+<!--                <version>2.0.1.Final</version>-->
+<!--                <configuration>-->
+<!--                    <hostname>overloaded-game.com</hostname>-->
+<!--                    <port>9990</port>-->
+<!--                    &lt;!&ndash;<hostname>wildfly.overloaded-game.com</hostname>&ndash;&gt;-->
+<!--                    <username>DeployUser</username>-->
+<!--                    <password>!RemoteDeploy1</password>-->
+<!--                </configuration>-->
+<!--            </plugin>-->
 
-        </plugins>
-    </build>
+<!--        </plugins>-->
+<!--    </build>-->
 </project>
