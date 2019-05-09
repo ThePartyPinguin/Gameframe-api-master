@@ -25,8 +25,9 @@
         <module>gameframe-gateway</module>
         <module>gameframe-authservice</module>
         <module>gameframe-eurekaservice</module>
-        <module>Gameframe-Profileservice</module>
+        <module>gameframe-profileservice</module>
         <module>Gameframe-Fileservice</module>
+        <module>gameframe-postingservice</module>
     </modules>
 
 <!--    <dependencies>-->

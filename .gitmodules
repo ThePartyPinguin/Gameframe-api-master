@@ -16,3 +16,6 @@
 [submodule "Gameframe-Fileservice"]
 	path = Gameframe-Fileservice
 	url = https://github.com/ThePartyPinguin/Gameframe-Fileservice.git
+[submodule "Gameframe-Postingservice"]
+	path = Gameframe-Postingservice
+	url = https://github.com/ThePartyPinguin/Gameframe-Postingservice.git
