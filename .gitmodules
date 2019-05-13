@@ -19,3 +19,7 @@
 [submodule "Gameframe-Postingservice"]
 	path = Gameframe-Postingservice
 	url = https://github.com/ThePartyPinguin/Gameframe-Postingservice.git
+[submodule "Gameframe-Socketservice"]
+	path = Gameframe-Socketservice
+	url = https://github.com/ThePartyPinguin/Gameframe-Socketservice.git
+	branch = master
