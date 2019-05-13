@@ -28,7 +28,7 @@
         <module>gameframe-profileservice</module>
         <module>Gameframe-Fileservice</module>
         <module>gameframe-postingservice</module>
-        <module>Gameframe-Socketservice</module>
+        <module>gameframe-socketservice</module>
     </modules>
 
 <!--    <dependencies>-->
