@@ -23,3 +23,6 @@
 	path = Gameframe-Socketservice
 	url = https://github.com/ThePartyPinguin/Gameframe-Socketservice.git
 	branch = master
+[submodule "Gameframe-Tagservice"]
+	path = Gameframe-Tagservice
+	url = https://github.com/ThePartyPinguin/Gameframe-Tagservice.git
