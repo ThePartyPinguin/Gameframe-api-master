@@ -26,3 +26,6 @@
 [submodule "Gameframe-Tagservice"]
 	path = Gameframe-Tagservice
 	url = https://github.com/ThePartyPinguin/Gameframe-Tagservice.git
+[submodule "Gameframe-Activemq"]
+	path = Gameframe-Activemq
+	url = https://github.com/ThePartyPinguin/Gameframe-Activemq.git
