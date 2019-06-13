@@ -29,7 +29,6 @@
         <module>Gameframe-Fileservice</module>
         <module>gameframe-postingservice</module>
         <module>gameframe-socketservice</module>
-        <module>Gameframe-Tagservice</module>
         <module>Gameframe-Activemq</module>
     </modules>
 </project>
